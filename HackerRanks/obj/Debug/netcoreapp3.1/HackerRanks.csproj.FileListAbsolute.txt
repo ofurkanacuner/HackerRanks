@@ -1,0 +1,14 @@
+C:\Users\4A Labs\source\repos\HackerRanks\HackerRanks\bin\Debug\netcoreapp3.1\HackerRanks.exe
+C:\Users\4A Labs\source\repos\HackerRanks\HackerRanks\bin\Debug\netcoreapp3.1\HackerRanks.deps.json
+C:\Users\4A Labs\source\repos\HackerRanks\HackerRanks\bin\Debug\netcoreapp3.1\HackerRanks.runtimeconfig.json
+C:\Users\4A Labs\source\repos\HackerRanks\HackerRanks\bin\Debug\netcoreapp3.1\HackerRanks.runtimeconfig.dev.json
+C:\Users\4A Labs\source\repos\HackerRanks\HackerRanks\bin\Debug\netcoreapp3.1\HackerRanks.dll
+C:\Users\4A Labs\source\repos\HackerRanks\HackerRanks\bin\Debug\netcoreapp3.1\HackerRanks.pdb
+C:\Users\4A Labs\source\repos\HackerRanks\HackerRanks\obj\Debug\netcoreapp3.1\HackerRanks.csproj.AssemblyReference.cache
+C:\Users\4A Labs\source\repos\HackerRanks\HackerRanks\obj\Debug\netcoreapp3.1\HackerRanks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4A Labs\source\repos\HackerRanks\HackerRanks\obj\Debug\netcoreapp3.1\HackerRanks.AssemblyInfoInputs.cache
+C:\Users\4A Labs\source\repos\HackerRanks\HackerRanks\obj\Debug\netcoreapp3.1\HackerRanks.AssemblyInfo.cs
+C:\Users\4A Labs\source\repos\HackerRanks\HackerRanks\obj\Debug\netcoreapp3.1\HackerRanks.csproj.CoreCompileInputs.cache
+C:\Users\4A Labs\source\repos\HackerRanks\HackerRanks\obj\Debug\netcoreapp3.1\HackerRanks.dll
+C:\Users\4A Labs\source\repos\HackerRanks\HackerRanks\obj\Debug\netcoreapp3.1\HackerRanks.pdb
+C:\Users\4A Labs\source\repos\HackerRanks\HackerRanks\obj\Debug\netcoreapp3.1\HackerRanks.genruntimeconfig.cache
